@@ -1,0 +1,5 @@
+torch>=2.0
+numpy
+matplotlib
+normflow @ git+https://github.com/jkomijani/normflow@v3.0.0
+lattice_ml @ git+https://github.com/jkomijani/lattice_ml@v0.2.0
